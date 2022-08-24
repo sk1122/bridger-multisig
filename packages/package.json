@@ -1,6 +1,6 @@
 {
-	"name": "@bridger/multisig",
-	"version": "0.0.2",
+	"name": "multisig-bridge",
+	"version": "0.0.1",
 	"description": "Bridge funds from one safe to another",
 	"keywords": [
 		"cross-chain",
