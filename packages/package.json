@@ -29,5 +29,9 @@
 		"@wagpay/sdk": "^0.0.21",
 		"@wagpay/types": "^0.0.7-10",
 		"axios": "^0.27.2"
+	},
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
 	}
 }
